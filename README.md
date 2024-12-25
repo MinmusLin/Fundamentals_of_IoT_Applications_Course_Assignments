@@ -21,6 +21,14 @@ A collection of my fundamentals of IoT applications course assignments.
 * [Sensor Analysis](Sensor_Analysis)
 传感器的关键性能参数分析及其在不同领域的应用
 
+* [IoT Experiment Report](IoT_Experiment_Report.md)
+物联网实验报告
+
+## 相关仓库
+
+* [Regional THP Data Publishing Subscription and Analysis System](https://github.com/MinmusLin/Regional_THP_Data_Publishing_Subscription_and_Analysis_System)
+某区域温度 / 湿度 / 气压数据发布订阅及分析处理系统
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -29,4 +37,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年10月30日
+2024年12月25日
